@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @jeremiahmattison
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning C# through microsoft Learn
-- 💞️ I’m looking to collaborate on open-source projects that use Python or C#
+- 👀 I’m interested in any opportunity to learn
+- 🌱 Python, C#, C++, SQL
+- 💞️ Always looking to solve a problem
 - 📫 How to reach me linkedin: jeremiahmattison
-- ⚡ Fun fact: I am learning how to speak and understand Arabic
+- ⚡ Fun fact: I can solve a rubiks cube!
+- Feel free to reach out, I'm an open book!
 
 <!---
 jeremiahmattison/jeremiahmattison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
